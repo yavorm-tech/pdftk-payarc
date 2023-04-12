@@ -1,0 +1,17 @@
+{
+    "name": "yavor/pdftk",
+    "autoload": {
+        "psr-4": {
+            "Yavor\\Pdftk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yavor",
+            "email": "yavor.p.mihaylov@gmail.com"
+        }
+    ],
+    "require": {
+        "mikehaertl/php-pdftk": "^0.13.0"
+    }
+}

@@ -1,0 +1,1802 @@
+---
+FieldType: Text
+FieldName: Merchant DBA Name
+FieldNameAlt: Merchant DBA Name:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Merchant Legal Name
+FieldNameAlt: Merchant Legal Name:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Office Address
+FieldNameAlt: Office Address:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Registered Address
+FieldNameAlt: Registered Address:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Office City
+FieldNameAlt: Office City:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Registered City
+FieldNameAlt: Registered City:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Office State
+FieldNameAlt: Office State:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Registered State
+FieldNameAlt: Registered State:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Office Zip
+FieldNameAlt: Office Zip:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Registered Zip
+FieldNameAlt: Registered Zip:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Contact First Name
+FieldNameAlt: Contact First Name:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Federal Tax ID
+FieldNameAlt: Federal Tax ID:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Contact Last Name
+FieldNameAlt: Contact Last Name:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Date Incorporated
+FieldNameAlt: Date Incorporated:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Contact Phone
+FieldNameAlt: Contact Phone:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: State of Incorporation
+FieldNameAlt: State of Incorporation:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Contact Email
+FieldNameAlt: Contact Email:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SICMCC Code
+FieldNameAlt: SIC/MCC Code:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Ownership Type
+FieldNameAlt: Ownership Type:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Select OneWebsite
+FieldNameAlt: Select One..._Website:
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Customer Support
+FieldNameAlt: Customer Support #:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Bank Account   DDA
+FieldNameAlt: Bank Account # / DDA:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Transit Routing
+FieldNameAlt: Transit Routing #:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: First Name
+FieldNameAlt: First Name:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Ownership
+FieldNameAlt: Ownership %:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Last Name
+FieldNameAlt: Last Name:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Phone Number
+FieldNameAlt: Phone Number:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Address
+FieldNameAlt: Address:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: C ty
+FieldNameAlt: C ty:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: State
+FieldNameAlt: State:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Zip
+FieldNameAlt: Zip:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Date Of Birth
+FieldNameAlt: Date Of Birth:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Drivers License
+FieldNameAlt: Driver&#8217;s License #:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SSN
+FieldNameAlt: SSN:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Drivers License State
+FieldNameAlt: Driver&#8217;s License State:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: First Name_2
+FieldNameAlt: First Name:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Ownership_2
+FieldNameAlt: Ownership %:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Last Name_2
+FieldNameAlt: Last Name:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Phone Number_2
+FieldNameAlt: Phone Number:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Address_2
+FieldNameAlt: Address:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: C ty_2
+FieldNameAlt: C ty:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: State_2
+FieldNameAlt: State:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Zip_2
+FieldNameAlt: Zip:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Date Of Birth_2
+FieldNameAlt: Date Of Birth:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Drivers License_2
+FieldNameAlt: Driver&#8217;s License #:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SSN_2
+FieldNameAlt: SSN:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Drivers License State_2
+FieldNameAlt: Driver&#8217;s License State:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_60
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Highest Ticket Value
+FieldNameAlt: Highest Ticket Value:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Desired Descriptor
+FieldNameAlt: $_Desired Descriptor:
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: EBT FNS Number
+FieldNameAlt: $_EBT FNS Number:
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Button
+FieldName: undefined
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: undefined_2
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Personal
+FieldNameAlt: Personal
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Business
+FieldNameAlt: Business
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: undefined_3
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: undefined_4
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Personal_2
+FieldNameAlt: Personal
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Business_2
+FieldNameAlt: Business
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: MOTOInternet
+FieldNameAlt: MOTO/Internet:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: How much Amex do your process each year
+FieldNameAlt: %_How much Amex do your process each year?
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: I have an AMEX ESA
+FieldNameAlt: %_I have an AMEX ESA#:
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Agent Name
+FieldNameAlt: %_Agent Name:
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Agent Sales Code
+FieldNameAlt: %_Agent Sales Code:
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Initials
+FieldNameAlt: Initials
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Signature
+FieldName: s Signature
+FieldNameAlt: s Signature
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: By Principal 1 1
+FieldNameAlt: By (Principal #1 [1]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: By Principal 1 2
+FieldNameAlt: By (Principal #1 [2]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Date_2
+FieldNameAlt: Date
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Title
+FieldNameAlt: Title
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Date_5
+FieldNameAlt: Date
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: By Principal 2 1
+FieldNameAlt: By (Principal #2 [1]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: By Principal 2 2
+FieldNameAlt: By (Principal #2 [2]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Title_2
+FieldNameAlt: Title
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: By Principal 1 1_2
+FieldNameAlt: By (Principal #1 [1]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: By Principal 1 2_2
+FieldNameAlt: By (Principal #1 [2]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: By Principal 2 1_2
+FieldNameAlt: By (Principal #2 [1]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: By Principal 2 2_2
+FieldNameAlt: By (Principal #2 [2]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: undefined_5
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: undefined_6
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Initials_2
+FieldNameAlt: Initials
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: undefined_7
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: the duly elected qualified and acting
+FieldNameAlt: the duly elected, qualified and acting
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: of a
+FieldNameAlt: of a
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: a
+FieldNameAlt: a
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: By Principal 1 1_3
+FieldNameAlt: By (Principal #1 [1]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: By Principal 1 2_3
+FieldNameAlt: By (Principal #1 [2]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: By Principal 2 1_3
+FieldNameAlt: By (Principal #2 [1]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: By Principal 2 2_3
+FieldNameAlt: By (Principal #2 [2]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: undefined_8
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: undefined_9
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: By_3
+FieldNameAlt: By
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Visa Credit
+FieldNameAlt: Visa Credit
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Mastercard Credit
+FieldNameAlt: Mastercard Credit
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Discover Credit
+FieldNameAlt: Discover Credit
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Visa Debit
+FieldNameAlt: Visa Debit
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Mastercard Debit
+FieldNameAlt: Mastercard Debit
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Discover Debit
+FieldNameAlt: Discover Debit
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: American Express
+FieldNameAlt: American Express
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: V saMC
+FieldNameAlt: V sa/MC:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: V saMC_2
+FieldNameAlt: V sa/MC:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Amex
+FieldNameAlt: Amex:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Amex_2
+FieldNameAlt: Amex:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Discover
+FieldNameAlt: Discover:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Discover_2
+FieldNameAlt: Discover:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Qual ed Authorizations
+FieldNameAlt: Qual ed Authorizations:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Flat Rate6
+FieldNameAlt: Flat Rate6
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: Flat Rate6_2
+FieldNameAlt: Flat Rate6:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Authorizations7
+FieldNameAlt: Authorizations7:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MidQual Authorizations3
+FieldNameAlt: Mid-Qual Authorizations3:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Cash Discount Rate
+FieldNameAlt: Cash Discount Rate
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: Cash Discount Rate_2
+FieldNameAlt: Cash Discount Rate:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Cash Discount Fee
+FieldNameAlt: Cash Discount Fee:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Bank Sponsor Fee
+FieldNameAlt: Bank Sponsor Fee:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Debit Card Auths
+FieldNameAlt: Debit Card Auth&#8217;s
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: M nimum Monthly Fee
+FieldNameAlt: M nimum Monthly Fee:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Amex Sponsor Fee
+FieldNameAlt: Amex Sponsor Fee:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: EBT Auths
+FieldNameAlt: EBT Auth&#8217;s:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Monthly Fee
+FieldNameAlt: Monthly Fee:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Batch Fees
+FieldNameAlt: Batch Fees:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Account Updater
+FieldNameAlt: Account Updater:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: PCI Fee
+FieldNameAlt: PCI Fee:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Chargebacks
+FieldNameAlt: Chargebacks:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Gateway Transactions
+FieldNameAlt: Gateway Transactions:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Gateway
+FieldNameAlt: Gateway:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Reversal
+FieldNameAlt: Reversal:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Per ACH Reject
+FieldNameAlt: Per ACH Reject:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Risk Analysis
+FieldNameAlt: Risk Analysis:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Retrievals
+FieldNameAlt: Retrievals:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: EthocaVerifi A erts
+FieldNameAlt: Ethoca/Verifi A erts:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Web Monitoring
+FieldNameAlt: Web Monitoring:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Arbitration
+FieldNameAlt: Arbitration:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Rapid Dispute Resolution RDR
+FieldNameAlt: Rapid Dispute Resolution (RDR):
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Account Updater_2
+FieldNameAlt: Account Updater:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Voice Auths
+FieldNameAlt: Voice Auth&#8217;s:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Other
+FieldNameAlt: Other:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: POS Fee
+FieldNameAlt: POS Fee:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Declines
+FieldNameAlt: Declines:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Terminal Fee
+FieldNameAlt: Terminal Fee:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Refunds
+FieldNameAlt: Refunds:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Statement Fee
+FieldNameAlt: Statement Fee:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: AVS
+FieldNameAlt: AVS:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: CommentsRow1
+FieldNameAlt: Comments:_Row_1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Other_2
+FieldNameAlt: Other:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Initials_3
+FieldNameAlt: Initials
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Will you accept payment for productsservices on your Web site Yes
+FieldNameAlt: Will you accept payment for products/services on your Web site? Yes
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: No
+FieldNameAlt: No
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: or I do not have a website
+FieldNameAlt: or I do not have a website
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: What  of your productsservices will be solddelivered in the following markets total must equal 100 North America
+FieldNameAlt: What % of your products/services will be sold/delivered in the following markets (total must equal 100%)? North America
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Europe
+FieldNameAlt: Europe
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Other Markets
+FieldNameAlt: Other Markets
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: What percentage do you sell to Business
+FieldNameAlt: What percentage do you sell to Business
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Consumers
+FieldNameAlt: Consumers
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Greater than 30 Days
+FieldNameAlt: Greater than 30 Days
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Less than 30 Days
+FieldNameAlt: Less than 30 Days
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: No Returns
+FieldNameAlt: No Returns
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Other_3
+FieldNameAlt: Other
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: Specify
+FieldNameAlt: Specify
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: If No Returns why are refunds not provided
+FieldNameAlt: If No Returns, why are refunds not provided
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: What  of refunds to your total monthly sales is usual
+FieldNameAlt: What % of refunds (to your total monthly sales) is usual
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: How many days does a refund usually take
+FieldNameAlt: How many days does a refund usually take
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Do you refund 100 of the purchase price Yes
+FieldNameAlt: Do you refund 100% of the purchase price? Yes
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: No_2
+FieldNameAlt: No
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: If No please provide further details
+FieldNameAlt: If No, please provide further details
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: In the case where a product is shipped is the shipment traceable Yes
+FieldNameAlt: In the case where a product is shipped, is the shipment traceable? Yes
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: No_3
+FieldNameAlt: No
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: ShipmentCompletion of Service
+FieldNameAlt: Shipment/Completion of Service
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Order
+FieldNameAlt: Order
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: 10 What is the normal turnaround time from when you receive the order to the customer receiving the goodsservices
+FieldNameAlt: 10. What is the normal &#8220;turnaround time&#8221; from when you receive the order to the customer receiving the goods/services
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Is a delivery receipt requested Yes
+FieldNameAlt: Is a delivery receipt requested? Yes
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: No_4
+FieldNameAlt: No
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: 11 Do you take advance deposits a percentage of the full value or a fixed partpayment paid in advance Yes
+FieldNameAlt: 11. Do you take advance deposits (a percentage of the full value or a fixed part-payment paid in advance)? Yes
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: No_5
+FieldNameAlt: No
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: If Yes what  of the final price is paid as a deposit
+FieldNameAlt: If Yes, what % of the final price is paid as a deposit
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: What fixed deposit is taken
+FieldNameAlt: What fixed deposit is taken
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12 Where is your product warehoused
+FieldNameAlt: 12. Where is your product warehoused
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 13 Do you own the productinventory at the time of sale Yes
+FieldNameAlt: 13. Do you own the product/inventory at the time of sale? Yes
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: No_6
+FieldNameAlt: No
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: 15 If Yes who are they and what do they do Use separate sheet
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Yes
+FieldStateOption: No_7
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 16 How do you advertise Catalogs magazines TV Internet etc List all that apply
+FieldNameAlt: 16. How do you advertise? (Catalogs, magazines, TV, Internet, etc.) List all that apply
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 17 Who enters credit card information at time of payment  Consumer
+FieldNameAlt: 17. Who enters credit card information at time of payment?  Consumer
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: 18 Is your processing seasonal mild fluctuations can be answered as No Yes
+FieldNameAlt: 18. Is your processing seasonal (mild fluctuations can be answered as &#8220;No&#8221;)? Yes
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: No_8
+FieldNameAlt: No
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Merchant
+FieldNameAlt: Merchant
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: 19 Do you take payments for memberships subscriptions or packages Yes
+FieldNameAlt: 19. Do you take payments for memberships, subscriptions, or packages? Yes
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: No_9
+FieldNameAlt: No
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Jan
+FieldNameAlt: Jan
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Feb
+FieldNameAlt: Feb
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Mar
+FieldNameAlt: Mar
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Apr
+FieldNameAlt: Apr
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: May
+FieldNameAlt: May
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: June
+FieldNameAlt: June
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: July
+FieldNameAlt: July
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Aug
+FieldNameAlt: Aug
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Sept
+FieldNameAlt: Sept
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Oct
+FieldNameAlt: Oct
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Nov
+FieldNameAlt: Nov
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Dec
+FieldNameAlt: Dec
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: If Yes please provide the usual breakdown of transactions by  of total sales and their respective price points
+FieldNameAlt: If Yes, please provide the usual breakdown of transactions (by % of total sales) and their respective price points
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 20 If packages or memberships are sold what is the average amount of time it takes a customer to use up their package
+FieldNameAlt: 20. If packages or memberships are sold, what is the average amount of time it takes a customer to use up their package
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 21 If subscriptions are sold how do you manage the recurring payments Payarcs Vault Module
+FieldNameAlt: 21. If subscriptions are sold, how do you manage the recurring payments? Payarc&#8217;s Vault Module
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: Other_4
+FieldNameAlt: Other
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 22 Do you want to capture the Consumer Billing Address AVS on any of your transactions Yes
+FieldNameAlt: 22. Do you want to capture the Consumer Billing Address (AVS) on any of your transactions? Yes
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: No_10
+FieldNameAlt: No
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: that you can make the appropriate decision  Decline
+FieldNameAlt: that you can make the appropriate decision?  Decline
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Send Response
+FieldNameAlt: Send Response
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: 23 Do you want to capture the Card Validation Value CVV from the back of the card on any of your transactions Yes
+FieldNameAlt: 23. Do you want to capture the Card Validation Value (CVV) from the back of the card on any of your transactions? Yes
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: No_11
+FieldNameAlt: No
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: 24 Do you want to perform Verified by Visa or MasterCard SecureCode with any of your transactions
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: No_12
+FieldStateOption: Off
+FieldStateOption: Yes_2
+---
+FieldType: Button
+FieldName: If No are you interested in implementing this fraud mitigation tool through PayArc Yes
+FieldNameAlt: If No, are you interested in implementing this fraud mitigation tool through PayArc? Yes
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: No_13
+FieldNameAlt: No
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: Initials_4
+FieldNameAlt: Initials
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: a Name and Title of Natural Person Opening Account
+FieldNameAlt: a. Name and Title of Natural Person Opening Account
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: b Name and Address of Legal Entity for Which the Account is Being Opened
+FieldNameAlt: b. Name and Address of Legal Entity for Which the Account is Being Opened
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: NameRow1
+FieldNameAlt: Name_Row_1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Date of BirthRow1
+FieldNameAlt: Date of Birth_Row_1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Address Residential or Business Street AddressRow1
+FieldNameAlt: Address (Residential or Business Street Address)_Row_1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: For US Persons Social Security NumberRow1
+FieldNameAlt: For U.S. Persons: Social Security Number_Row_1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: For Foreign Persons Passport Number and Country of Issuance or other similar identification number1Row1
+FieldNameAlt: For Foreign Persons: Passport Number and Country of Issuance, or other similar identification number1_Row_1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: NameRow2
+FieldNameAlt: Name_Row_2
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Date of BirthRow2
+FieldNameAlt: Date of Birth_Row_2
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Address Residential or Business Street AddressRow2
+FieldNameAlt: Address (Residential or Business Street Address)_Row_2
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: For US Persons Social Security NumberRow2
+FieldNameAlt: For U.S. Persons: Social Security Number_Row_2
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: For Foreign Persons Passport Number and Country of Issuance or other similar identification number1Row2
+FieldNameAlt: For Foreign Persons: Passport Number and Country of Issuance, or other similar identification number1_Row_2
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: NameRow3
+FieldNameAlt: Name_Row_3
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Date of BirthRow3
+FieldNameAlt: Date of Birth_Row_3
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Address Residential or Business Street AddressRow3
+FieldNameAlt: Address (Residential or Business Street Address)_Row_3
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: For US Persons Social Security NumberRow3
+FieldNameAlt: For U.S. Persons: Social Security Number_Row_3
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: For Foreign Persons Passport Number and Country of Issuance or other similar identification number1Row3
+FieldNameAlt: For Foreign Persons: Passport Number and Country of Issuance, or other similar identification number1_Row_3
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: NameRow4
+FieldNameAlt: Name_Row_4
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Date of BirthRow4
+FieldNameAlt: Date of Birth_Row_4
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Address Residential or Business Street AddressRow4
+FieldNameAlt: Address (Residential or Business Street Address)_Row_4
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: For US Persons Social Security NumberRow4
+FieldNameAlt: For U.S. Persons: Social Security Number_Row_4
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: For Foreign Persons Passport Number and Country of Issuance or other similar identification number1Row4
+FieldNameAlt: For Foreign Persons: Passport Number and Country of Issuance, or other similar identification number1_Row_4
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: NameRow1_2
+FieldNameAlt: Name_Row_1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Date of BirthRow1_2
+FieldNameAlt: Date of Birth_Row_1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Address Residential or Business Street AddressRow1_2
+FieldNameAlt: Address (Residential or Business Street Address)_Row_1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: For US Persons Social Security NumberRow1_2
+FieldNameAlt: For U.S. Persons: Social Security Number_Row_1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: For Foreign Persons Passport Number and Country of Issuance or other similar identification number1Row1_2
+FieldNameAlt: For Foreign Persons: Passport Number and Country of Issuance, or other similar identification number1_Row_1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: I
+FieldNameAlt: I
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Signature
+FieldName: Signature
+FieldNameAlt: Signature
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Date_6
+FieldNameAlt: Date
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Legal Entity Identifier
+FieldNameAlt: Legal Entity Identifier
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Summary of Business
+FieldNameAlt: Summary of Business
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box12
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Yes
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Check Box13
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Yes
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: Text14
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Text15
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Date
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Qualified1.0.0
+FieldNameAlt: Qualified1:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Qualified1.0.1
+FieldNameAlt: Qualified1:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Qualified1.0.2
+FieldNameAlt: Qualified1:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Qualified1.0.3
+FieldNameAlt: Qualified1:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Qualified1.1.0
+FieldNameAlt: Qualified1:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Qualified1.1.1
+FieldNameAlt: Qualified1:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Qualified1.1.2
+FieldNameAlt: Qualified1:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Qualified1.1.3
+FieldNameAlt: Qualified1:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: NonQualified4.0.0
+FieldNameAlt: Non-Qualified4:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: NonQualified4.0.1
+FieldNameAlt: Non-Qualified4:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: NonQualified4.0.2
+FieldNameAlt: Non-Qualified4:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: NonQualified4.0.3
+FieldNameAlt: Non-Qualified4:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: NonQualified4.1.0
+FieldNameAlt: Non-Qualified4:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: NonQualified4.1.1
+FieldNameAlt: Non-Qualified4:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: NonQualified4.1.2
+FieldNameAlt: Non-Qualified4:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: NonQualified4.1.3
+FieldNameAlt: Non-Qualified4:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MidQualified2.0.0
+FieldNameAlt: Mid-Qualified2:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MidQualified2.0.1
+FieldNameAlt: Mid-Qualified2:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MidQualified2.0.2
+FieldNameAlt: Mid-Qualified2:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MidQualified2.0.3
+FieldNameAlt: Mid-Qualified2:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MidQualified2.1.0
+FieldNameAlt: Mid-Qualified2:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MidQualified2.1.1
+FieldNameAlt: Mid-Qualified2:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MidQualified2.1.2
+FieldNameAlt: Mid-Qualified2:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MidQualified2.1.3
+FieldNameAlt: Mid-Qualified2:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: NonQual Authorizations5.0
+FieldNameAlt: Non-Qual Authorizations5:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: NonQual Authorizations5.1
+FieldNameAlt: Non-Qual Authorizations5:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: NonQual Authorizations5.2
+FieldNameAlt: Non-Qual Authorizations5:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: NonQual Authorizations5.3
+FieldNameAlt: Non-Qual Authorizations5:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Label
+FieldNameAlt: Label
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Text17
+FieldFlags: 0
+FieldJustification: Left
